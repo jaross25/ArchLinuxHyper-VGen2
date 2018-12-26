@@ -147,3 +147,7 @@ The bootloader I use is called GRUB and this is used to tell the system to load 
 `reboot`
 
 Make sure to remove the ISO image
+
+Enable DHCP
+
+`systemctl enable dhcpcd`
