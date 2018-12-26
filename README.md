@@ -20,7 +20,7 @@ Number of Virtual Processors: 4
 
 If you do not turn off secure boot you will get a Hyper-V error saying:
 
-1. SCSI DVD (0,1) Image vertification failed.
+> SCSI DVD (0,1) Image vertification failed.
 
 To turn off secure boot open Windows PowerShell (as an Administrator) and run:
 
